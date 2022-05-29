@@ -37,7 +37,7 @@ body {
 .main-page__task {
   width: 56%;
   display: inline-block;
-  flex-grow: 1
+  flex-grow: 1;
 }
 
 .main-page__add__task-container {
@@ -133,7 +133,7 @@ label[for="main-page__add__new-task"] {
 }
 
 .main-page__list .main-page__input {
-  width: 226px
+  width: 226px;
 }
 
 .main-page__button__delete .button__img {
@@ -154,12 +154,12 @@ label[for="main-page__add__new-task"] {
 
 /* Edit Task */
 .main-page__list .main-page__input {
-  display: none
+  display: none;
 }
 
 .main-page__edit-mode .main-page__input {
   display: inline-block;
-  width: 224px
+  width: 224px;
 }
 
 .main-page__edit-mode .main__page__list__label {
